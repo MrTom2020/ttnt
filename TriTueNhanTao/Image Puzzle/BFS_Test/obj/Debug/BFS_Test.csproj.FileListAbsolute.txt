@@ -1,0 +1,2 @@
+C:\Users\MyPC\Desktop\hihi\TriTueNhanTao\Image Puzzle\BFS_Test\obj\Debug\BFS_Test.csprojAssemblyReference.cache
+C:\Users\MyPC\Desktop\hihi\TriTueNhanTao\Image Puzzle\BFS_Test\obj\Debug\BFS_Test.csproj.CoreCompileInputs.cache
